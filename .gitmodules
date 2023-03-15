@@ -3,13 +3,13 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
-[submodule "bReeze"]
-	path = bReeze
-	url = https://github.com/chgrl/breeze
-	shallow = true
-	registered = true
 [submodule "rdnb"]
 	path = rdnb
 	url = https://github.com/chgrl/rdnb
+	shallow = true
+	registered = true
+[submodule "bReeze"]
+	path = bReeze
+	url = https://github.com/chgrl/breeze
 	shallow = true
 	registered = true
