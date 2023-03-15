@@ -8,6 +8,11 @@
 	url = https://github.com/chgrl/breeze
 	shallow = true
 	registered = true
+[submodule "diezeit"]
+	path = diezeit
+	url = https://github.com/chgrl/diezeit
+	shallow = true
+	registered = true
 [submodule "rdnb"]
 	path = rdnb
 	url = https://github.com/chgrl/rdnb

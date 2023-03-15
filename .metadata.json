@@ -4,6 +4,10 @@
     "oncran": true
   },
   {
+    "package": "diezeit",
+    "oncran": true
+  },
+  {
     "package": "rdnb",
     "oncran": true
   }
