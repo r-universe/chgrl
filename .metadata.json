@@ -1,10 +1,10 @@
 [
   {
-    "package": "rdnb",
+    "package": "bReeze",
     "oncran": true
   },
   {
-    "package": "bReeze",
+    "package": "rdnb",
     "oncran": true
   }
 ]
